@@ -64,7 +64,7 @@ MyPortfolio/
 <img width="1899" height="901" alt="contact png (2)" src="https://github.com/user-attachments/assets/7194a62a-59dc-4feb-9305-0250c91905ff" /><hr>
 
 
-📬 Contact Me<br>
+📬 Contact Me<br><br>
 📧 Email: aniketrathod0319@gmail.com<br>
 📱 Phone: +91 8262934201<br>
 🌍 Location: India<br>
@@ -74,21 +74,21 @@ MyPortfolio/
 📸 Instagram: (Add your link)<br>
 
 
-📌 Future Improvements<br>
-Add backend for contact form<br>
-Add animations (AOS / GSAP)<br>
-Dark/Light mode toggle<br>
-Deploy live project<br><br>
+📌 Future Improvements<br><br>
+-Add backend for contact form<br>
+-Add animations (AOS / GSAP)<br>
+-Dark/Light mode toggle<br>
+-Deploy live project<br><br>
 
 ⭐ Support<br>
 
-If you like this project, give it a ⭐ on GitHub!
+-If you like this project, give it a ⭐ on GitHub!
 
 📄 License<br>
 
-This project is open-source and free to use.
+-This project is open-source and free to use.
 
 👨‍💻 Author<br>
 
 Aniket Rathod
-Frontend Developer
+Frontend Developer<hr>
