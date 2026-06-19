@@ -4,7 +4,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript to showcase m
 
 📌 Live Preview
 
-👉 (Add your deployed link here — GitHub Pages / Netlify)
+👉 (Netlify:-https://taupe-biscochitos-9737a2.netlify.app/)
 
 📖 About the Project
 
@@ -21,6 +21,8 @@ The goal of this project is to create a modern and clean UI to showcase my work 
 HTML5
 CSS3
 JavaScript
+
+
 ✨ Features
 ✅ Responsive Design
 ✅ Smooth Navigation
@@ -28,6 +30,8 @@ JavaScript
 ✅ Contact Form UI
 ✅ Modern Gradient UI Design
 ✅ Social Media Links
+
+
 📂 Project Structure
 MyPortfolio/
 │── index.html
@@ -37,22 +41,28 @@ MyPortfolio/
 │── style.css
 │── script.js
 │── images/
+
+
 📸 Screenshots
 🏠 Home Page
 
-(Add your screenshot here)
+<img width="1877" height="905" alt="home png (3)" src="https://github.com/user-attachments/assets/5a336a7d-0aef-4065-92d0-3613002644bb" />
+
 
 👨‍💻 About Page
 
-(Add your screenshot here)
+<img width="1872" height="987" alt="about png (3)" src="https://github.com/user-attachments/assets/99647698-cf7d-43b1-b822-f2b44fba433d" />
+
 
 📂 Projects Page
 
-(Add your screenshot here)
+<img width="1874" height="1078" alt="projects png" src="https://github.com/user-attachments/assets/83dea7f5-1d73-41ac-b5a8-36080bf0fb93" />
+
 
 📞 Contact Page
 
-(Add your screenshot here)
+<img width="1899" height="901" alt="contact png (2)" src="https://github.com/user-attachments/assets/7194a62a-59dc-4feb-9305-0250c91905ff" />
+
 
 📬 Contact Me
 📧 Email: aniketrathod0319@gmail.com
@@ -62,6 +72,8 @@ MyPortfolio/
 💼 LinkedIn: (Add your link)
 💻 GitHub: (Add your link)
 📸 Instagram: (Add your link)
+
+
 📌 Future Improvements
 Add backend for contact form
 Add animations (AOS / GSAP)
