@@ -4,18 +4,18 @@ A personal portfolio website built using HTML, CSS, and JavaScript to showcase m
 
 📌 Live Preview<br><br>
 
-👉 (Netlify:-https://taupe-biscochitos-9737a2.netlify.app/)<br><br>
+👉 (Netlify:-https://taupe-biscochitos-9737a2.netlify.app/)<br>
 
 📖 About the Project<br>
 
-This is a responsive Frontend Developer Portfolio Website where I present:<br><br>
+This is a responsive Frontend Developer Portfolio Website where I present:<br>
 
 👨‍💻 About Me<br>
 🛠️ Skills<br>
 📂 Projects<br>
 📞 Contact Form<br>
 
-The goal of this project is to create a modern and clean UI to showcase my work and make it easy for recruiters to connect with me.<br><br>
+The goal of this project is to create a modern and clean UI to showcase my work and make it easy for recruiters to connect with me.<br>
 
 🛠️ Tech Stack<br>
 HTML5<br>
