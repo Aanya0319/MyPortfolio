@@ -43,51 +43,52 @@ MyPortfolio/
 │── images/
 
 
-📸 Screenshots<br>
+📸 Screenshots<br><br>
 🏠 Home Page
 
-<img width="1877" height="905" alt="home png (3)" src="https://github.com/user-attachments/assets/5a336a7d-0aef-4065-92d0-3613002644bb" />
+<img width="1877" height="905" alt="home png (3)" src="https://github.com/user-attachments/assets/5a336a7d-0aef-4065-92d0-3613002644bb" /><hr>
 
 
 👨‍💻 About Page
 
-<img width="1872" height="987" alt="about png (3)" src="https://github.com/user-attachments/assets/99647698-cf7d-43b1-b822-f2b44fba433d" />
+<img width="1872" height="987" alt="about png (3)" src="https://github.com/user-attachments/assets/99647698-cf7d-43b1-b822-f2b44fba433d" /><hr>
 
 
 📂 Projects Page
 
-<img width="1874" height="1078" alt="projects png" src="https://github.com/user-attachments/assets/83dea7f5-1d73-41ac-b5a8-36080bf0fb93" />
+<img width="1874" height="1078" alt="projects png" src="https://github.com/user-attachments/assets/83dea7f5-1d73-41ac-b5a8-36080bf0fb93" /><hr>
 
 
 📞 Contact Page
 
-<img width="1899" height="901" alt="contact png (2)" src="https://github.com/user-attachments/assets/7194a62a-59dc-4feb-9305-0250c91905ff" />
+<img width="1899" height="901" alt="contact png (2)" src="https://github.com/user-attachments/assets/7194a62a-59dc-4feb-9305-0250c91905ff" /><hr>
 
 
 📬 Contact Me
-📧 Email: aniketrathod0319@gmail.com
-📱 Phone: +91 8262934201
-🌍 Location: India
-🔗 Connect With Me
-💼 LinkedIn: (Add your link)
-💻 GitHub: (Add your link)
-📸 Instagram: (Add your link)
+📧 Email: aniketrathod0319@gmail.com<br>
+📱 Phone: +91 8262934201<br>
+🌍 Location: India<br>
+🔗 Connect With Me<br>
+💼 LinkedIn: (Add your link)<br>
+💻 GitHub: (Add your link)<br>
+📸 Instagram: (Add your link)<br>
 
 
 📌 Future Improvements
-Add backend for contact form
-Add animations (AOS / GSAP)
-Dark/Light mode toggle
-Deploy live project
-⭐ Support
+Add backend for contact form<br>
+Add animations (AOS / GSAP)<br>
+Dark/Light mode toggle<br>
+Deploy live project<br><br>
+
+⭐ Support<br>
 
 If you like this project, give it a ⭐ on GitHub!
 
-📄 License
+📄 License<br>
 
 This project is open-source and free to use.
 
-👨‍💻 Author
+👨‍💻 Author<br>
 
 Aniket Rathod
 Frontend Developer
