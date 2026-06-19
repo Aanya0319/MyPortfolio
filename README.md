@@ -43,7 +43,7 @@ MyPortfolio/
 │── images/
 
 
-📸 Screenshots<br><br>
+📸 Screenshots<br><br><hr>
 🏠 Home Page
 
 <img width="1877" height="905" alt="home png (3)" src="https://github.com/user-attachments/assets/5a336a7d-0aef-4065-92d0-3613002644bb" /><hr>
@@ -64,7 +64,7 @@ MyPortfolio/
 <img width="1899" height="901" alt="contact png (2)" src="https://github.com/user-attachments/assets/7194a62a-59dc-4feb-9305-0250c91905ff" /><hr>
 
 
-📬 Contact Me
+📬 Contact Me<br>
 📧 Email: aniketrathod0319@gmail.com<br>
 📱 Phone: +91 8262934201<br>
 🌍 Location: India<br>
@@ -74,7 +74,7 @@ MyPortfolio/
 📸 Instagram: (Add your link)<br>
 
 
-📌 Future Improvements
+📌 Future Improvements<br>
 Add backend for contact form<br>
 Add animations (AOS / GSAP)<br>
 Dark/Light mode toggle<br>
