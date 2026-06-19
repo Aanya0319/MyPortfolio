@@ -67,11 +67,11 @@ MyPortfolio/
 📬 Contact Me<br><br>
 📧 Email: aniketrathod0319@gmail.com<br>
 📱 Phone: +91 8262934201<br>
-🌍 Location: India<br>
-🔗 Connect With Me<br>
-💼 LinkedIn: (https://linkedin.com/in/aniket-rathod-dev))<br>
-💻 GitHub: (https://github.com/Aanya0319))<br>
-📸 Instagram:(https://www.instagram.com/heyyy__aanya/?__pwa=1))<br>
+🌍 Location: India<br><br>
+🔗 Connect With Me<br><br>
+💼 LinkedIn: (https://linkedin.com/in/aniket-rathod-dev)<br>
+💻 GitHub: (https://github.com/Aanya0319)<br>
+📸 Instagram:(https://www.instagram.com/heyyy__aanya/?__pwa=1)<br>
 
 
 📌 Future Improvements<br><br>
