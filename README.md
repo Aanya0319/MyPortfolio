@@ -1,46 +1,46 @@
 🚀 My Portfolio Website
 
-A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact details.
+A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact details.<br>
 
-📌 Live Preview
+📌 Live Preview<br><br>
 
-👉 (Netlify:-https://taupe-biscochitos-9737a2.netlify.app/)
+👉 (Netlify:-https://taupe-biscochitos-9737a2.netlify.app/)<br><br>
 
-📖 About the Project
+📖 About the Project<br>
 
-This is a responsive Frontend Developer Portfolio Website where I present:
+This is a responsive Frontend Developer Portfolio Website where I present:<br><br>
 
-👨‍💻 About Me
-🛠️ Skills
-📂 Projects
-📞 Contact Form
+👨‍💻 About Me<br>
+🛠️ Skills<br>
+📂 Projects<br>
+📞 Contact Form<br>
 
-The goal of this project is to create a modern and clean UI to showcase my work and make it easy for recruiters to connect with me.
+The goal of this project is to create a modern and clean UI to showcase my work and make it easy for recruiters to connect with me.<br><br>
 
-🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript
+🛠️ Tech Stack<br>
+HTML5<br>
+CSS3<br>
+JavaScript<br>
+<hr>
 
+✨ Features<br>
+✅ Responsive Design<br>
+✅ Smooth Navigation<br>
+✅ Projects Showcase Section<br>
+✅ Contact Form UI<br>
+✅ Modern Gradient UI Design<br>
+✅ Social Media Links<br>
+<hr>
 
-✨ Features
-✅ Responsive Design
-✅ Smooth Navigation
-✅ Projects Showcase Section
-✅ Contact Form UI
-✅ Modern Gradient UI Design
-✅ Social Media Links
-
-
-📂 Project Structure
-MyPortfolio/
-│── index.html
-│── about.html
-│── projects.html
-│── contact.html
-│── style.css
-│── script.js
-│── images/
+📂 Project Structure<br>
+MyPortfolio/<br>
+│── index.html<br>
+│── about.html<br>
+│── projects.html<br>
+│── contact.html<br>
+│── style.css<br>
+│── script.js<br>
+│── images/<br>
 
 
 📸 Screenshots<br><br><hr>
@@ -90,5 +90,5 @@ MyPortfolio/
 
 👨‍💻 Author<br>
 
-Aniket Rathod
-Frontend Developer<hr>
+-Aniket Rathod<br>
+-Frontend Developer<hr>
