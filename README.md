@@ -69,9 +69,9 @@ MyPortfolio/
 📱 Phone: +91 8262934201<br>
 🌍 Location: India<br>
 🔗 Connect With Me<br>
-💼 LinkedIn: ([Add your link](https://linkedin.com/in/aniket-rathod-dev))<br>
-💻 GitHub: ([Add your link](https://github.com/Aanya0319))<br>
-📸 Instagram: ([Add your link](https://www.instagram.com/heyyy__aanya/?__pwa=1))<br>
+💼 LinkedIn: (https://linkedin.com/in/aniket-rathod-dev))<br>
+💻 GitHub: (https://github.com/Aanya0319))<br>
+📸 Instagram:(https://www.instagram.com/heyyy__aanya/?__pwa=1))<br>
 
 
 📌 Future Improvements<br><br>
