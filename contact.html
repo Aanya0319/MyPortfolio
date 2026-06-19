@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <!-- Navbar -->
+  <header>
+    <nav>
+      <h2 class="logo">MyPortfolio</h2>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+    <section id="contact" class="contact">
+  <h2>Contact Me</h2>
+
+  <div class="contact-container">
+    
+    <!-- Contact Info -->
+    <div class="contact-info">
+      <p><strong>Email:</strong> aniketrathod0319@gmail.com</p>
+      <p><strong>Phone:</strong> +91 8262934201</p>
+      <p><strong>Location:</strong> India</p>
+    </div>
+
+    <!-- Contact Form -->
+    <form id="contactForm" class="contact-form">
+      <input type="text" id="name" placeholder="Your Name" required>
+      <input type="email" id="email" placeholder="Your Email" required>
+      <textarea id="message" placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+
+  </div>
+</section>
+ <script>
+    //contact
+document.getElementById("contactForm").addEventListener("submit", function(e) {
+  e.preventDefault();
+
+  let name = document.getElementById("name").value;
+  let email = document.getElementById("email").value;
+  let message = document.getElementById("message").value;
+
+  if (name && email && message) {
+    alert("Message sent successfully!");
+  } else {
+    alert("Please fill all fields");
+  }
+});
+// footer
+const year = new Date().getFullYear();
+document.querySelector(".copyright").innerHTML =
+  `© ${year} Your Name. All Rights Reserved.`;
+ </script>
+  
+<footer class="footer">
+  <div class="footer-container">
+
+    <h2>MyPortfolio</h2>
+    <p>Frontend Developer | Creating modern web experiences</p>
+
+    <!-- Social Links -->
+    <div class="social-links">
+      <a href="https://linkedin.com/in/aniket-rathod-dev">LinkedIn</a>
+      <a href="https://github.com/Aanya0319">GitHub</a>
+      <a href="https://www.instagram.com/heyyy__aanya/?__pwa=1">Instagram</a>
+    </div>
+
+    <p class="copyright">
+      © 2026 Your Name. All Rights Reserved.
+    </p>
+
+  </div>
+</footer>
+</body>
+</html>

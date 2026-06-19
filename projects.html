@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <header>
+    <nav>
+      <h2 class="logo">MyPortfolio</h2>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+    <!-- Projects -->
+  <section id="projects" class="projects">
+  <h2>My Projects</h2>
+
+  <div class="projects-container">
+
+    <!-- Project 1 -->
+    <div class="project-card">
+      <img src="calculater.jpg.jpeg" alt="Project 1">
+      <h3>Calculator App</h3>
+      <p>Built using HTML, CSS, and JavaScript.</p>
+      <div class="project-links">
+        
+        <a href="https://github.com/Aanya0319/Calculater">GitHub</a>
+      </div>
+    </div>
+
+    <!-- Project 2 -->
+    <div class="project-card">
+      <img src="todo.png.jpeg" alt="Project 2">
+      <h3>To-Do App</h3>
+      <p>Task management app with add/delete features.</p>
+      <div class="project-links">
+       
+        <a href="https://github.com/Aanya0319/Todolist">GitHub</a>
+      </div>
+    </div>
+
+    <!-- Project 3 -->
+    <div class="project-card">
+      <img src="port.jpeg" alt="Project 3">
+      <h3>Portfolio Website</h3>
+      <p>Personal portfolio built with responsive design.</p>
+      <div class="project-links">
+        
+        <a href="#">GitHub</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+ <script >
+    //projects
+// Add simple click alert for demo links
+document.querySelectorAll(".project-links a").forEach(link => {
+  link.addEventListener("click", (e) => {
+    if (link.getAttribute("href") === "#") {
+      e.preventDefault();
+      alert("Link coming soon!");
+    }
+  });
+});
+// footer
+const year = new Date().getFullYear();
+document.querySelector(".copyright").innerHTML =
+  `© ${year} Your Name. All Rights Reserved.`;
+
+
+ </script>
+ <footer class="footer">
+  <div class="footer-container">
+
+    <h2>MyPortfolio</h2>
+    <p>Frontend Developer | Creating modern web experiences</p>
+
+    <!-- Social Links -->
+    <div class="social-links">
+      <a href="https://linkedin.com/in/aniket-rathod-dev">LinkedIn</a>
+      <a href="https://github.com/Aanya0319">GitHub</a>
+      <a href="https://www.instagram.com/heyyy__aanya/?__pwa=1">Instagram</a>
+    </div>
+
+    <p class="copyright">
+      © 2026 Your Name. All Rights Reserved.
+    </p>
+
+  </div>
+</footer>
+</body>
+</html>

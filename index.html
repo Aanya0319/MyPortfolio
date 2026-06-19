@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header>
+    <nav>
+      <h2 class="logo">MyPortfolio</h2>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="home" class="home">
+  <div class="home-content">
+    <h1>Hello, I'm <span>Aniket Rathod</span></h1>
+    <h2>Frontend Developer</h2>
+    <p>I build responsive and modern websites using HTML, CSS, and JavaScript.</p>
+
+    <div class="home-buttons">
+      <a href="projects.html" class="btn">View Projects</a>
+      
+      <a href="contact.html" class="btn btn-outline">Contact Me</a>
+    </div>
+  </div>
+</section>
+    
+   
+  <script>
+    // Contact form alert
+document.getElementById("contactForm").addEventListener("submit", function(e) {
+  e.preventDefault();
+  alert("Message sent successfully!");
+});
+// footer
+const year = new Date().getFullYear();
+document.querySelector(".copyright").innerHTML =
+  `© ${year} Your Name. All Rights Reserved.`;
+  </script>
+  <footer class="footer">
+  <div class="footer-container">
+
+    <h2>MyPortfolio</h2>
+    <p>Frontend Developer | Creating modern web experiences</p>
+
+    <!-- Social Links -->
+    <div class="social-links">
+      <a href="https://linkedin.com/in/aniket-rathod-dev">LinkedIn</a>
+      <a href="https://github.com/Aanya0319">GitHub</a>
+      <a href="https://www.instagram.com/heyyy__aanya/?__pwa=1">Instagram</a>
+    </div>
+
+    <p class="copyright">
+      © 2026 Your Name. All Rights Reserved.
+    </p>
+
+  </div>
+</footer>
+</body>
+</html>
