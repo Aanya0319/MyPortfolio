@@ -2,11 +2,11 @@
 
 A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact details.<br>
 
-📌 Live Preview<br><br>
+<h2>📌 Live Preview</h2>
 
-👉 (Netlify:-https://taupe-biscochitos-9737a2.netlify.app/)<br>
+👉 (Netlify:-https://taupe-biscochitos-9737a2.netlify.app/)<br><br>
 
-📖 About the Project<br>
+<h2>📖 About the Project</h2>
 
 This is a responsive Frontend Developer Portfolio Website where I present:<br>
 
