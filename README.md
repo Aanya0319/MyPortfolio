@@ -32,7 +32,7 @@ JavaScript<br>
 ✅ Social Media Links<br>
 <hr>
 
-📂 Project Structure<br>
+<h2>📂 Project Structure<br></h2>
 MyPortfolio/<br>
 │── index.html<br>
 │── about.html<br>
