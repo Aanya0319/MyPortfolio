@@ -1,4 +1,4 @@
-🚀 My Portfolio Website
+<h1>🚀 My Portfolio Website</h1>
 
 A personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact details.<br>
 
@@ -43,7 +43,7 @@ MyPortfolio/<br>
 │── images/<br><br>
 
 
-📸 Screenshots
+📸 Screenshots<hr>
 🏠 Home Page
 
 <img width="1877" height="905" alt="home png (3)" src="https://github.com/user-attachments/assets/5a336a7d-0aef-4065-92d0-3613002644bb" /><hr>
