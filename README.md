@@ -75,7 +75,7 @@ MyPortfolio/<br>
 📸 Instagram:(https://www.instagram.com/heyyy__aanya/?__pwa=1)<br>
 
 
-<h2>📌 Future Improvements</j2>
+<h2>📌 Future Improvements</j2><br>
 -Add backend for contact form<br>
 -Add animations (AOS / GSAP)<br>
 -Dark/Light mode toggle<br>
