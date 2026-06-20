@@ -40,10 +40,10 @@ MyPortfolio/<br>
 │── contact.html<br>
 │── style.css<br>
 │── script.js<br>
-│── images/<br>
+│── images/<br><br>
 
 
-📸 Screenshots<br><br><hr>
+📸 Screenshots
 🏠 Home Page
 
 <img width="1877" height="905" alt="home png (3)" src="https://github.com/user-attachments/assets/5a336a7d-0aef-4065-92d0-3613002644bb" /><hr>
