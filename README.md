@@ -68,27 +68,28 @@ MyPortfolio/<br>
 📧 Email: aniketrathod0319@gmail.com<br>
 📱 Phone: +91 8262934201<br>
 🌍 Location: India<br><br>
+
 🔗 Connect With Me<br><br>
 💼 LinkedIn: (https://linkedin.com/in/aniket-rathod-dev)<br>
 💻 GitHub: (https://github.com/Aanya0319)<br>
 📸 Instagram:(https://www.instagram.com/heyyy__aanya/?__pwa=1)<br>
 
 
-📌 Future Improvements<br><br>
+<h2>📌 Future Improvements</j2>
 -Add backend for contact form<br>
 -Add animations (AOS / GSAP)<br>
 -Dark/Light mode toggle<br>
 -Deploy live project<br><br>
 
-⭐ Support<br>
+<h2>⭐ Support</h2>
 
 -If you like this project, give it a ⭐ on GitHub!
 
-📄 License<br>
+<h2>📄 License</h2>
 
 -This project is open-source and free to use.
 
-👨‍💻 Author<br>
+<h2>👨‍💻 Author</h2>
 
 -Aniket Rathod<br>
 -Frontend Developer<hr>
